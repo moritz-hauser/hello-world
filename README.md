@@ -1,1 +1,1 @@
-**Einfaches Programm zum Testen von GitHub**
+**Einfaches Repository zum Testen von GitHub.**
